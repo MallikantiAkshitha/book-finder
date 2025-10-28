@@ -7,7 +7,7 @@ Book Finder is a React web app for college students like Alex to search for book
 - Search by title, author, or year range
 - Responsive UI and error handling
 - Displays cover images, authors, and publication year
-- Built for educational assessment
+- Built for educational assessment 
 
 ## User Persona and Challenge
 - **Name:** Alex
